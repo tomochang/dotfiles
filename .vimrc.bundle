@@ -1,7 +1,7 @@
 "vunlde.vimで管理してるpluginを読み込む
 
 filetype off
-set rtp+=~/.vim/bundle/vundle/
+set rtp+=~/.vim/vundle.git/
 call vundle#rc()
 
 " Edit {{{
